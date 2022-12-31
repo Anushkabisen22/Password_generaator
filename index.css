@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background-color: black;
+    margin-left: 15%;  
+}
+h1{
+    color: white;
+}
+#border{
+    width: 80%;
+    height: 500px;
+    border: 2px white;
+}
+h2{
+    color: green;
+}
+h3{
+    color: whitesmoke;
+}
+button{
+
+    background-color: green;
+    color: white;
+    padding: 4px;
+    width: 150px;
+    border-radius: 7px;
+    
+}
+#example{
+    font-size: 12px;
+    display: flex;
+    color: white;
+    text-align: center;
+    justify-content: space-around;
+}
+#fir{
+  width: 200px;
+  height: 20px;
+  border: 1px solid;
+  box-sizing: border-box;
+    
+}
+#sec{
+     width: 200px;
+  height: 20px;
+  border: 1px solid;
+  box-sizing: border-box;
+}
+
+
